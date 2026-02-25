@@ -7,7 +7,6 @@ public class StudentApp extends JFrame {
     JTextField idField, nameField, courseField, marksField;
     JButton addBtn, viewBtn, updateBtn, deleteBtn;
 
-    
      
     public static Connection getConnection() {
     try {
